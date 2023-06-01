@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cujc - Jeremiah Chung as Chinese University of Hong Kong
 - 👀 I’m interested in learning, running, hiking, thinking, travelling ... 
 - 🌱 I’m currently learning backend web programing, different languages, Chinese studies, linguistics, relgious studies
-- 💞️ I’m looking to collaborate on waht I am interested and learning
+- 💞️ I’m looking to collaborate on what I am or (you are) interested and learning
 - 📫 How to reach me ... my cuhk email account
 
 <!---
